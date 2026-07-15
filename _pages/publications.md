@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Indicates authors contributed equally
   
 ## Peer-reviewed Articles
 Schertz, K.E., * Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., **Janey, E.A.**, Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
