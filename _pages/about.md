@@ -17,10 +17,6 @@ I am a PhD student in Psychology at the University of Chicago, investigating the
 - How do natural environments influence affective processing for individuals and dyads?
 - Can we target self-referential processing to reduce rumination in people with depression or anxiety?
 
-### Broader Impacts
-
-In an effort to help city-dwellers experience natural stimuli on their daily lives, I co-developed a web-app called [ReTUNE](https://retune.app/) which generates 'restorative' walking routes which account for greenspace, noise levels and crime. The app currently works in pilot form for Chicago and is in the process of being expanded.
-
 ### Open Science
 
-Check out my [Open Science Framework page](https://osf.io/hfapn/) for shared stimuli, datasets, and analysis code!
+Check out my [Open Science Framework page](https://osf.io/user/s9n8w) for shared stimuli, datasets, and analysis code.
