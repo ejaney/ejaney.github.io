@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+How do the spaces we navigate shape how we see one another?
 
-Hello! I am a postdoctoral researcher in the [Emotion & Self Control Lab](http://selfcontrol.psych.lsa.umich.edu) at the University of Michigan and the [Clinical Psychophysiology Lab](https://oboe-mouse-keb7.squarespace.com/) at Michigan State University. I completed my PhD in Psychology in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/) at the University of Chicago. My research bridges social, clinical, cognitive, neuroscience and environmental approaches to psychology, to understand how physical environments and self-regulation intertwine to improve wellbeing and bolster social connection. 
-
-I will be starting as an Assistant Professor of Psychology at Iowa State University in August 2026.
+I am a PhD student in Psychology at the University of Chicago, investigating the intersection of race, space, and social cognition. My research employs social, cognitive, cultural, and environmental approaches to understand how physical and systemic environments shape human perception and interaction. Based in the [Environmental Neuroscience Lab](https://voices.uchicago.edu/bermanlab/), my interdisciplinary work is also enriched by affiliations with the [Tracing Historical Roots of Equity and Disparity Lab] (https://www.kyshiahenderson.com/) (THREAD) Lab and the [Couples’ Experiences with Diversity and Adversity in Relationships Lab] (https://lydiaemery.com/) (CEDAR) Lab.
 
 ### Reseach Questions
 
