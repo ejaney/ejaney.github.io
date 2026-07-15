@@ -4,72 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+* Indicates authors contributed equally
   
-  \* Indicates authors contributed equally
-
-## Patents
-**Schertz, K.E.**, Kardan, O., Berman, M.G., & Kompare, T.N. (2019). Routing in Navigation Applications based on Restorative Score. U.S. Patent Accepted No. 16/418,522. Washington, DC: U.S. Patent and Trademark Office.
-
 ## Peer-reviewed Articles
-**Schertz, K.E.**,* Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., Janey, E.A., Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
+Schertz, K.E., * Meidenbauer, K.L.,* Freeman, T.R., Santiago, I.M., **Janey, E.A.**, Gehrke, K., Samtani, A.L., Stier, A.J., & Berman, M.G. (2025). Identifying qualities and amenities associated with perceived cognitive restoration and improved affect in urban parks. Journal of Environmental Psychology, 104, 102624.
 
-Trinh, E.N.,* **Schertz, K.E.**,* & Kross, E. (2025). Do you have a minute? The cognitive & emotional consequences of self-disclosure at work. Emotion. Advance online publication: https://dx.doi.org/10.1037/emo0001539
+Meidenbauer, K.L., Schertz, K.E., **Janey, E.A.**, Stier, A.J., Samtani, A.L., Gehrke, K., Tucker, R., Hasan, M., & Berman, M.G. (2025) Evidence for environmental influences on impulsivity and aggression. Urban Forestry & Urban Greening, 103, 128594. 
 
-Rim, N.,* **Schertz, K.E.**,* & Berman, M.G. (2025). The affective, cognitive, and social benefits of interacting with nature. Journal of Consumer Psychology, 35(3), 495-510.
-
-Baldwin, C.R.,* **Schertz, K.E.***,* Orvell, A.,* Costello, C., Takahashi, S., Moser, J.S., Ayduk, O., & Kross, E. (2025). Managing emotions in everyday life: Why a toolbox of strategies matters. Emotion, 25(5), 1122-1136.
-
-Rodriguez, M., **Schertz, K.E.**, & Kross, E. (2025). How people think about being alone shapes their experience of loneliness. Nature Communications , 16(1), 1594.
-
-Meidenbauer, K.L., **Schertz, K.E.**, Janey, E.A., Stier, A.J., Samtani, A.L., Gehrke, K., Tucker, R., Hasan, M., & Berman, M.G. (2025) Evidence for environmental influences on impulsivity and aggression. Urban Forestry & Urban Greening, 103, 128594. 
-
-Meidenbauer, K.L., **Schertz, K.E.**, Li, P., Sharma, A., Freeman, T.R., Janey, E.A., Stier, A.J., Samtani, A.L., Gehrke, K., & Berman, M.G. (2024). Variable and dynamic associations between hot weather, thermal comfort, and individuals’ emotional states during summertime. BMC Psychology, 12, 504.
-
-Akcelik, G.N., Choe, K.W., Rosenberg, M.D., **Schertz, K.E.**, Meidenbauer, K.L., Zhang, T., Rim, N. Tucker, R., Talen, E., & Berman, M.G. (2024). Quantifying urban environments: Aesthetic preference through the lens of prospect-refuge theory. Journal of Environmental Psychology, 97, 102344.
-
-Cardenas-Iniguez, C., Schachner, J.N., Ip, K.I, **Schertz, K.E.**, Gonzalez, M.R., Abad, S., Herting, M.M. (2024). Building towards an adolescent neural urbanome: Expanding environmental measures using linked external data (LED) in the ABCD Study. Developmental Cognitive Neuroscience, 65, 101338.
-
-**Schertz, K.E.**, Kotabe, H.P., Meidenbauer, K.L., Layden, E.A., Zhen, J., Bowman, J.E., … & Berman, M.G. (2023). Nature’s path to thinking about others and the surrounding environment. Journal of Environmental Psychology, 89, 102046.
-
-**Schertz, K.E.**, Bowman, J.E., Kotabe, H.P., Layden, E.A., Zhen, J., Lakhtakia, T., Lyu, M., Paraschos, O., Van Hedger, S.C., Vohs, K.D., Berman, M.G. (2022). Environmental influences on affect and cognition: A study of natural and commercial semi-public spaces. Journal of Environmental Psychology, 83, 101852.
-
-Stier, A.J., **Schertz, K.E.**, Rim, N.W., Cardenas-Iniguez, C., Lahey, B.B., Bettencourt, L.M.A., & Berman, M.G. (2021). Evidence and Theory for Lower Rates of Depression in Larger U.S. Urban Areas. Proceedings of the National Academy of Science, 118(31).
-
-**Schertz, K.E.**, Saxon, J., Cardenas-Iniguez, C., Bettencourt, L.M.A., Ding, Y., Hoffmann, H., & Berman, M.G. (2021). Neighborhood street activity and greenspace usage uniquely contribute to predicting crime. npj Urban Sustainability, 1 , 19.
-
-Meidenbauer, K.L., Stenfors, C.U.D., Bratman, G.N., Gross, J.J., **Schertz, K.E.**, Choe, K.W., & Berman, M.G. (2020). The affective benefits of nature exposure: What’s nature got to do with it? Journal of Environmental Psychology , 72, 101498.
-
-**Schertz, K.E.**, Kardan, O., & Berman, M.G. (2020). Visual features influence expressed thoughts in the absence of overt semantic content. Attention, Perception, &
-Psychophysics . doi: 10.3758/s13414-020-02121-z
-
-Layden, E.A., Li., H., **Schertz, K.E.**, Berman, M.G., & London, S.E. (2020). Experience selectively alters functional connectivity within a neural network to predict learned behavior in juvenile songbirds. NeuroImage. doi: 10.1016/j.neuroimage.2020.117218
-
-**Schertz, K.E.** & Berman, M.G. (2019). Understanding nature and its cognitive benefits. Current Directions in Psychological Science . doi: 10.1177/0963721419854100
-
-Stenfors, C.U.D., Van Hedger, S.C., **Schertz, K.E.**, Meyer, F.A., Smith, K.E.L., Norman, G.J., … & Berman, M.G. (2019). Positive effects of nature on cognitive performance across multiple experiments: Test order but not affect modulates the cognitive effects. Frontiers in Psychology . doi: 10.3389/fpsyg.2019.01413
-
-Meidenbauer, K.L., Stenfors, C.U.D., Young, J., Layden, E.A., **Schertz, K.E.**, Kardan, O., Decety, J., Berman, M.G. (2019). The gradual development of the preference for natural environments. Journal of Environmental Psychology. doi: 10.1016/j.jenvp.2019.101328
-
-Layden, E.A., **Schertz, K.E.**, London, S.E., & Berman, M.G. (2019). Interhemispheric functional connectivity in the zebra finch brain, absent the corpus callosum in normal ontogeny. NeuroImage , 195 , 113-127. doi: 10.1016/j.neuroimage.2019.03.064.
-
-Van Hedger, K., Keedy, S.K., **Schertz, K.E.**, Berman, M.G., & de Wit, H. (2019). Effects of methamphetamine on neural responses to visual stimuli. Psychopharmocology, 1-8. doi: 10.1007/s00213-018-5156-5
-
-**Schertz, K.E.**, Sachdeva, S., Kardan, O., Kotabe, H.P., Wolf, K.L., & Berman, M.G. (2018). A thought in the park: The influence of naturalness and low-level visual features on expressed thoughts. Cognition, 174, 82-93. doi: 10.1016/j.cognition.2018.01.011
+Meidenbauer, K.L., Schertz, K.E., Li, P., Sharma, A., Freeman, T.R., **Janey, E.A.**, Stier, A.J., Samtani, A.L., Gehrke, K., & Berman, M.G. (2024). Variable and dynamic associations between hot weather, thermal comfort, and individuals’ emotional states during summertime. BMC Psychology, 12, 504.
 
 ## Book Chapters
 
-Akcelik, G.N., **Schertz, K.E.**, & Berman, M.G. (2022). The influence of low- and midlevel visual features on the perception of streetscape qualities. In B. Ionescu & W. Bainbridge, Human perceptions of visual information: Psychological and computational perspectives. Springer.
-
-**Schertz, K.E.**,* Meidenbauer, K.L.,* & Berman, M.G. (2021). Understanding the affective benefits of interacting with nature. In E. Brymer, M. Rogerson, & J. Barton, Nature and Health: Physical activity in nature. Rutledge.
-
-## Popular Press Articles
-
-Trinh, E.N. & **Schertz, K.E.** (August 20, 2025). Should you share personal stuff at work? Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
-
-**Schertz, K.E.** (September 25, 2023). Thinking too much about yourself? Nature could help with that. Invited submission for “Character and Context” blog for the Society for Personality and Social Psychology.
+**Janey, E. A.**, & Oishi, S. (2026). Exploring psychological richness and its implications for a good life. In K. E. Vail III, D. R. Van Tongeren, R. J. Schlegel, J. Greenberg, L. A. King, & R. M. Ryan (Eds.), Handbook of the science of existential psychology (pp. 957–968). Guilford Press.
 
 <!-- 
 Commented out for now
