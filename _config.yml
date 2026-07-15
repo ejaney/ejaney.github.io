@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kathryn E. Schertz"
+title                    : "Elizabeth A. Janey"
 title_separator          : "-"
-name                     : &name "Kathryn E. Schertz"
+name                     : &name "Elizabeth Janey"
 description              : &description " "
-url                      : https://kschertz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ejaney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kschertz/kschertz.github.io"
+repository               : "ejaney/ejaney.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kathryn E. Schertz"
+  name             : "Elizabeth Janey"
   avatar           : "Schertz Kathryn copy.png"
-  bio              : "Psychology Postdoc at the University of Michigan and Michigan State University"
-  location         : "Ann Arbor, MI, USA"
-  employer         :
+  bio              : "PhD Student in Social Psychology at the University of Chicago"
+  location         : 
+  employer         : "The University of Chicago"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SDnocu8AAAAJ&hl=en&oi=ao"
-  email            : "schertzk@umich.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Kathryn-Schertz"
+  googlescholar    : "https://scholar.google.com/citations?user=cuDgIgMAAAAJ&hl=en&oi=ao"
+  email            : "ejaney@uchicago.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Elizabeth-Janey"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kschertz"
+  github           : "ejaney"
   google_plus      :
   keybase          :
   instagram        :
